@@ -1,9 +1,9 @@
 <?php
+
 namespace App;
 
 class TestClass {
-  public function sayhello(){
-  echo 'Hello';
+  public function say_hello(){
+    echo 'Hello';
   }
-  }
-  ?>
+}
