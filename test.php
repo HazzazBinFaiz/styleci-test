@@ -2,9 +2,10 @@
 
 namespace App;
 
-class TestClass 
+class test 
 {
-  public function say_hello(){
+  public function say_hello()
+  {
     echo 'Hello';
   }
 }
